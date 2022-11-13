@@ -6,6 +6,9 @@ on:
   # Run on every branch push: https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#filter-pattern-cheat-sheet
     branches:
       - '**'
+  release:
+    types:
+      - published
 
 # These variables can be reused in the build steps
 env:
