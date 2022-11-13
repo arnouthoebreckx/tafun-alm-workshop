@@ -1,5 +1,14 @@
 # tafun-application Project
 
+# Workshop
+
+1. Setup DockerHub account on hub.docker.com
+2. Add username and password in Git repository under Settings/Security/Secrets/Actions
+3. Create build step that only pushes when first step succeeds
+4. Add Dockerfile to build image
+
+# Quarkus
+
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
