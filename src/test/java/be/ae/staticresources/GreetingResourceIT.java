@@ -1,4 +1,4 @@
-package be.ae;
+package be.ae.staticresources;
 
 import io.quarkus.test.junit.QuarkusIntegrationTest;
 
